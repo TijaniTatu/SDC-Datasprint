@@ -1,0 +1,8 @@
+# Pinned to match the environment the model was trained/pickled in.
+# scikit-learn pin is REQUIRED — pickled estimators are version-sensitive.
+scikit-learn==1.6.1
+numpy==2.2.4
+pandas==2.2.3
+joblib==1.5.3
+streamlit==1.58.0
+plotly==6.8.0
