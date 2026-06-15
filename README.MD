@@ -77,4 +77,3 @@ Open `notebook.ipynb` in Jupyter or Google Colab, download the dataset from Kagg
 **Charles Maina** — BSc Informatics & Computer Science, Strathmore University
 **Tevin Omondi** — BSc Informatics & Computer Science, Strathmore University
 
-[github.com/TijaniTatu](https://github.com/TijaniTatu)
