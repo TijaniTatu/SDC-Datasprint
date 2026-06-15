@@ -55,12 +55,16 @@ st.markdown(
       .rec-card {{
         background: #FBF6F4; border-left: 6px solid {PRIMARY};
         border-radius: 8px; padding: 1.1rem 1.3rem; height: 100%;
+        color: #2B2B2B;
       }}
       .rec-card h4 {{ color: {PRIMARY}; margin-top: 0; }}
+      .rec-card p {{ color: #2B2B2B; }}
       .disclaimer {{
         background: #FFF4E5; border-left: 6px solid {ACCENT};
         border-radius: 8px; padding: 0.9rem 1.1rem;
+        color: #2B2B2B;
       }}
+      .disclaimer b {{ color: {PRIMARY}; }}
     </style>
     """,
     unsafe_allow_html=True,
