@@ -71,6 +71,8 @@ pip install -r requirements.txt
 
 Open `notebook.ipynb` in Jupyter or Google Colab, download the dataset from Kaggle, and run all cells. Pinned library versions matter — the saved model is version-sensitive.
 
+[Link to the Love Server](https://sdc-datasprint-5at.streamlit.app/)
+
 ## Author
 
 **Tijani Tatu** — BSc Informatics & Computer Science, Strathmore University
